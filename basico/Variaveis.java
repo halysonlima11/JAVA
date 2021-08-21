@@ -20,6 +20,7 @@ public class Variaveis {
 	 System.out.println(Subtracao);
 	 System.out.println(Divisao);
 	 System.out.println(multiplicacao);
+	 System.out.println("teste");
 
 		
 		
